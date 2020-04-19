@@ -1,3 +1,8 @@
 hello word
 nihaoa
 hi
+<<<<<<< HEAD
+=======
+hah
+dsdw
+>>>>>>> 15f1803... fdfd
